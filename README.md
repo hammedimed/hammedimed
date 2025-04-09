@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔺 I'm currently leaning Angular/Typescript.
+🔺 Currently leaning Angular/Typescript.
 
 
 ## 🌐 Socials:
